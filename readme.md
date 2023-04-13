@@ -1,5 +1,5 @@
 # VUE.JS @ ACADEMIND
-This repo contains all assignments completed on ** Academind's 'Vue - The Complete Guide' **
+This repo contains all assignments completed on * Academind's 'Vue - The Complete Guide' *
 
 ---
 
