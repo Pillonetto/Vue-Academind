@@ -11,6 +11,8 @@ This repo contains all assignments completed on ** Academind's 'Vue - The Comple
   - Basic reactivity 
   - Dynamic styling
   
-3rd section - started on 4/12/2023
-
+3rd section - finished on 4/13/2023
+  - Conditional Content and Lists
+  
+4th section - started on 4/13/2023
 ---
