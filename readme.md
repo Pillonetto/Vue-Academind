@@ -14,5 +14,8 @@ This repo contains all assignments completed on  **Academind's 'Vue - The Comple
 3rd section - finished on 4/13/2023
   - Conditional Content and Lists
   
-4th section - started on 4/13/2023
+4th section - finished on 4/14/2023
+  - Practice Project 1
+
+5th section - started on 4/14/2023
 ---
