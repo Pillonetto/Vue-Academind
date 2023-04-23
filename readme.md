@@ -23,7 +23,6 @@ This repo contains all assignments completed on  **Academind's 'Vue - The Comple
 
 7th section - finished on 4/15/2023
 
-8th section - finished on 4/16/2023
+8th section - finished on 4/23/2023
 
-9th section - started on 4/16/2023
 ---
